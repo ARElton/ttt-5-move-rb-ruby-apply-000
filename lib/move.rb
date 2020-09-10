@@ -9,6 +9,4 @@ end
 # code your input_to_index and move method here!
 
 array = ["1", "2", "3", "4", "5", "6", "7", "8", "9"]
-  "5".to_i
-  "5 - 1".to_i
-end
+puts 
