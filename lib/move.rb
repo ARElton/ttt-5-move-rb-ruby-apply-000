@@ -8,8 +8,13 @@ end
 
 # code your input_to_index and move method here!
 
-array = ["1", "2", "3", "4", "5", "6", "7", "8", "9"]
+board = ["1", "2", "3", "4", "5", "6", "7", "8", "9"]
 puts 
 
 puts "#{array}"
+puts 
 
+
+def update_array_at_with(array, index, value)
+  array[index] = value
+end
