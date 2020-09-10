@@ -10,7 +10,6 @@ end
 
 def input_to_index(input=["1", "2", "3", "4", "5", "6", "7", "8", "9"])
 "5 - 1".to_i
-input = index.to_i - 1 
 end
 
 
