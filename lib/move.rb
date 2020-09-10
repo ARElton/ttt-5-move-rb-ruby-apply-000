@@ -9,5 +9,5 @@ end
 # code your input_to_index and move method here!
 
 board = ["1", "2", "3", "4", "5", "6", "7", "8", "9"]
-puts 
+"5 - 1".to_i
 
